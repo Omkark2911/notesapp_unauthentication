@@ -1,1 +1,2 @@
 # notesapp_unauthentication
+This is a simple Full Stack Notes App where users can create and view notes. It demonstrates how the frontend and backend communicate using APIs. The frontend is built with HTML, JavaScript, and Axios, while the backend uses Node.js and Express to handle requests. Users can add a new note, which is sent to the backend using a POST request, and fetch all notes using a GET request to display them on the page. This project helped in understanding API calls, and how to connect frontend with backend in a real-world scenario.
